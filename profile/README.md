@@ -1,5 +1,5 @@
 # 🗽️ LibreVote
-
+![plakat](https://github.com/HHTeamMandalorians/.github/blob/0f082c1c605a0b668fca0ab69970f294cd9509f6/Za_mao_czasu.png)
 Nasz projekt na edycję 2022 programu [*Hack Heroes*][hh]!
 
 ## Czym jest ten projekt?
