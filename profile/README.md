@@ -43,5 +43,5 @@ Korzystanie z *front-endu* powinno być jednak naturalne – instalacja wymaga d
 hostingu przy pomocy dowolnego serwera HTTP. W przyszłości [serwer] miałby być dostosowany do opcjonalnego hostingu klienta.
 
 [hh]: https://www.hackheroes.pl/
-[serwer]: https://github.com/HHTeamMandalorians/client
-[klient]: https://github.com/HHTeamMandalorians/server
+[serwer]: https://github.com/HHTeamMandalorians/server
+[klient]: https://github.com/HHTeamMandalorians/client
